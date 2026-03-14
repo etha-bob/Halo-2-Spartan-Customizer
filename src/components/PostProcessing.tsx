@@ -79,5 +79,5 @@ export function PostProcessing() {
     )
   }
 
-  return <EffectComposer>{...effects}</EffectComposer>
+  return <EffectComposer>{effects}</EffectComposer>
 }
